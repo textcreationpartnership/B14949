@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July. 16. Numb. 9. The continuation of the most remarkable occurrences of newes, since the 4 of Iune, vntill this present. 1630 Containing, amongst diuers others, these particulars. The preparation and landing of the King of Sweden in Germany, with a mighty army, against the emperour: together with a list of his whole army, horse and foot. A late skirmish and ouerthrow giuen by the States forces, to Count Iohn of Nassaw, himselfe being taken prisoner, being sore hurt: together with diuers men of note neare Wesel. Newes of the arriuall of the two Spanish plate fleets at the Havanna, with the Gargazin of their lading and riches. The great ielousie of the emperour, of the Turkes comming into Hungary, with the great cruelty of the said Turkes, vsed against certaine merchants of Hungary. The arriuall of diuers Dutch ships; richly laden, both from East-Indies, and from Farnambuco together with many other particulars, both from Italy Sauoy, France, and the Low-Countries.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14949</idno>
+            <idno type="STC">STC 18507.205</idno>
+            <idno type="STC">ESTC S118670</idno>
+            <idno type="EEBO-CITATION">99853877</idno>
+            <idno type="PROQUEST">99853877</idno>
+            <idno type="VID">177326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177326)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1097:3a, 1732:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>July. 16. Numb. 9. The continuation of the most remarkable occurrences of newes, since the 4 of Iune, vntill this present. 1630 Containing, amongst diuers others, these particulars. The preparation and landing of the King of Sweden in Germany, with a mighty army, against the emperour: together with a list of his whole army, horse and foot. A late skirmish and ouerthrow giuen by the States forces, to Count Iohn of Nassaw, himselfe being taken prisoner, being sore hurt: together with diuers men of note neare Wesel. Newes of the arriuall of the two Spanish plate fleets at the Havanna, with the Gargazin of their lading and riches. The great ielousie of the emperour, of the Turkes comming into Hungary, with the great cruelty of the said Turkes, vsed against certaine merchants of Hungary. The arriuall of diuers Dutch ships; richly laden, both from East-Indies, and from Farnambuco together with many other particulars, both from Italy Sauoy, France, and the Low-Countries.</title>
+                  <author>Butter, Nicholas, d. 1664, publisher.</author>
+                  <author>Bourne, Nicholas, publisher.</author>
+                  <author>Purslowe, George, d. 1632. printer.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [by G. Purslowe] for Nicholas Bourne, dwelling at the South entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1630.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Dahl.</note>
+                  <note>No. 9 in a series published between late 1629 or early 1630 and the end of 1630 by Nathaniel Butter and Nicholas Bourne (cf. Dahl).</note>
+                  <note>Date tampered with in ink and could read July. 19. instead (cf. STC).</note>
+                  <note>Formerly STC 18762.</note>
+                  <note>Identified as STC 11178 on UMI microfilm reel 1097.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+                  <note>Appears at UMI microfilm reels 1097 and 1732.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term>Europe --  History --  17th century --  Newspapers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177326:1"/>
+            <pb facs="tcp:177326:1" rendition="simple:additions"/>
+            <pb facs="tcp:177326:2"/>
+            <pb facs="tcp:177326:2" rendition="simple:additions"/>
+            <p>
+               <hi>July.</hi> 16.</p>
+            <p>
+               <hi>Numb.</hi> 9.</p>
+            <p>The Continuation of the moſt remark<g ref="char:EOLhyphen"/>able occurrences of Newes, ſince the 4 of <hi>Iune,</hi> vntill this preſent. 1630.</p>
+            <p>Containing, amongſt diuers others, theſe particulars.</p>
+            <p>The preparation and landing of the King of <hi>Swe<g ref="char:EOLhyphen"/>den</hi> in <hi>Germany,</hi> with a mighty Army, againſt the Em<g ref="char:EOLhyphen"/>perour: Together with a Liſt of his whole Army, Horſe and Foot.</p>
+            <p>A late skirmiſh and ouerthrow giuen by the States forces, to Count <hi>Iohn</hi> of <hi>Naſſaw,</hi> himſelfe being taken priſoner, being ſore hurt: Together with diuers men of note neare <hi>Weſel.</hi>
+            </p>
+            <p>Newes of the arriuall of the two <hi>Spaniſh</hi> Plate Fleets at the <hi>Hauanua,</hi> with the Gargazin of their lading and riches.</p>
+            <p>The great ielouſie of the Emperour, of the <hi>Turkes</hi> com<g ref="char:EOLhyphen"/>ming into <hi>Hungary,</hi> with the great cruelty of the ſaid <hi>Turkes,</hi> vſed againſt certaine Merchants of HVNGARY.</p>
+            <p>The arriuall of diuers Dutch Ships, richly laden, both from <hi>Eaſt-Indies,</hi> and from <hi>Farnambuco</hi>
+            </p>
+            <p>Together with many other particulars, both from <hi>Italy, Sauoy, France,</hi> and the <hi>Low-Countries.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nicholas Bourne,</hi> dwelling at the South entrance of the Royall Exchange. 1630.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177326:3"/>
+            <pb n="1" facs="tcp:177326:3"/>
+            <head>Continuation of the weekely Newes.</head>
+            <div type="part">
+               <head>From <hi>Venice</hi> the <hi>24</hi> of <hi>May, 1630.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Warre in <hi>Italy</hi> encreaſeth daily, and waxeth hotter, the <hi>French</hi> doe ſtrong<g ref="char:EOLhyphen"/>ly fortifie the Incorporated Cities in <hi>Sauoy,</hi> and haue taken another towne of great importance, and now are mar<g ref="char:EOLhyphen"/>ching toward <hi>Caſſall,</hi> to relieue that. The <hi>Spaniſh</hi> on the other ſide, doe fortifie themſelues by the <hi>Piedmont</hi> Sea; with Sconces, retrenchments and men, &amp; lye round about <hi>Caſſall,</hi> with aboue 20000 men, with Shot, Canons, and Amunition, vnder the Com<g ref="char:EOLhyphen"/>mand of Colonell <hi>Pianſo,</hi> they haue aſſaulted the little Sconce before <hi>Caſſall,</hi> with 6000 men but were beaten backe twice manfully and couragiouſly by the <hi>French.</hi> Inſomuch that they were compelled to retyre, with the loſſe of the ſaid Colonell <hi>Piauſe</hi> and 800 more.</p>
+               <p>The Duke of <hi>Mantua</hi> and the Imperialiſts lye ouer<g ref="char:EOLhyphen"/>thwart againſt each other in battell, and they doe daily skirmiſh with each other. His Maieſtie of <hi>France</hi> will by no meanes yeeld to any agreement, but ſtriues to ac<g ref="char:EOLhyphen"/>compliſh his deſigne and purpoſe. The Marquis <hi>Spinola</hi> demaunds great ſummes of moneys from the King of <hi>Spain,</hi> pretending that he means to performe ſome nota<g ref="char:EOLhyphen"/>ble exploit. In <hi>Millan</hi> dy daily about 80 or 100 perſons, &amp; in diuers other Cities. All fruits and lands are quite
+<pb n="2" facs="tcp:177326:4"/>ruinated, inſomuch that a great dearth may be expe<g ref="char:EOLhyphen"/>cted.</p>
+               <p>In ſhutting vp of this Letter, commeth tydings that the <hi>French</hi> haue brought great ſupply and reliefe into <hi>Caſſall.</hi> The P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rats of <hi>Thunis</hi> and <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>giers,</hi> haue done exceeding great harme vpon the Coaſt of <hi>Sicile,</hi> and haue taken diuers ſhips, and haue ſtrain'd a very great and richly laden ſhip.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Rome</hi> the <hi>25</hi> of <hi>May. 1630.</hi>
+               </head>
+               <p>We vnderſtand from <hi>Spaine,</hi> that there was great ioy lately at Court, concerning the birth of ſome young Prince. And that Letters ar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come from <hi>Don Frederico,</hi> which mention, that the Fleet is happily come into the <hi>Hauana.</hi> And they did hope that the ſame Fleet would ſafely arriue in <hi>Spaine</hi> about the end of this ſame moneth.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Venice</hi> the <hi>24</hi> of <hi>May.</hi>
+               </head>
+               <p>From <hi>Millan,</hi> we learne that the <hi>Dutch</hi> are arriued in the ſame Command of the which already, 7000 foote, and 800 horſe are vnder the Commaund of thoſe of <hi>Mantua,</hi> being marched thither. The reſt are laid in <hi>Montſerat.</hi> The Generall <hi>Piccolomeni</hi> is to conduct them thither 12000 foot more, and 3000 horſe.</p>
+               <p>Now newly commeth tydings that the <hi>French</hi> haue taken the head towne <hi>Chambery,</hi> with agreement. And that Mounſieur <hi>Baſſampier</hi> hath alſo beſieged ſome place of importance. It is coniectured, and is alſo very proba<g ref="char:EOLhyphen"/>ble that all <hi>Sauoy</hi> will fall vnder the obedience of the <hi>French</hi> King.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Venice</hi> the <hi>31</hi> of <hi>May.</hi>
+               </head>
+               <p>We heare from <hi>Piedmont,</hi> that being his Maieſtie of <hi>France</hi> had well beſet the City of <hi>Chambery,</hi> he himſelfe with all his forces is proceeded farther into <hi>Sauoy,</hi> ſo to approach with maine force into <hi>Italy.</hi> The <hi>Spaniſh</hi> doe begin to breake vp apace, and to forſake <hi>Caſſall,</hi> ſome going towards <hi>Millan,</hi> others towards <hi>Sauoy,</hi> to hinder the paſſage with greater force. The forces of the Duke
+<pb n="3" facs="tcp:177326:4"/>of <hi>Mantua</hi> and his <hi>Seignorie,</hi> happened into a hot skir<g ref="char:EOLhyphen"/>miſh with the Imperialiſts, who with ſome 20000 ſtrong, did ſtriue to lodge in the Dukedome of <hi>Mantua.</hi> In this skirmiſh, many were ſlaine on both ſides. How<g ref="char:EOLhyphen"/>ſoeuer, they hindered the Imperialiſts in their intention, who were conſtrained to ſeeke other Quarters, where they begin to entrench themſelues, by reaſon the Cardi<g ref="char:EOLhyphen"/>nall comes downe with ſuch a ſtrong Army. The plague encreaſeth exceedingly among the ſouldiers, as well in field as in the towne. The Marquis <hi>Spinola</hi> is about to furniſh another Army, which vnder the protection of the Emperour, he intends to bring againſt this <hi>Seigniory.</hi> To this end are come diuers ſummes of ready money from the King of <hi>Spaine</hi> into <hi>Genua,</hi> with promiſe of fiue millions more, as ſoone as the ſiluer or Plate-Fleete ſhall be arriued.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Verona</hi> the <hi>3</hi> of <hi>Iune.</hi>
+               </head>
+               <p>From <hi>Millan</hi> is written that the Marquis <hi>Spinola</hi> is departed toward <hi>Fraſineto,</hi> to vndertake the ſiege of <hi>Caſſall</hi> on the <hi>Netherland</hi> manner. He hath already brought thither 40 pieces of Ordnance, amongſt them 24 Culuerins, with many Granadoes and Fireworkes.</p>
+               <p>The <hi>Spaniſh</hi> haue made a ſtrong aſſault on the out<g ref="char:EOLhyphen"/>ward Works of the ſame City, and driuen the <hi>French</hi> vn<g ref="char:EOLhyphen"/>to the very gates of the City. In which bickering, many <hi>Spaniards</hi> were ſlaine, eſpecially thoſe of the Regiment of <hi>Schauwenborgh.</hi> At this preſent, they haue made a Battery before the Citie, and doe begin to ſhoot. The Commander <hi>Gallas</hi> hath placed himſelfe, with 6000 Musketiers, and 1500 horſemen, betweene this City and <hi>Mantua,</hi> to depriue thoſe of <hi>Mantua</hi> of their Prouiand and Amunition which they conuey, which the <hi>Seignorie</hi> of <hi>Venice</hi> will ſtriue to hinder.</p>
+               <p>The Imperialiſts haue taken <hi>
+                     <g ref="char:V">Ʋ</g>aleſio, Villa Franca,</hi> and all the townes <hi>Cauttatto,</hi> in the which the <hi>Venetians</hi> haue loſt at leaſt 2000 men Their Generall <hi>Sagreto</hi> was com<g ref="char:EOLhyphen"/>pelled with his Artillerie and men to retyre. All this
+<pb n="4" facs="tcp:177326:5"/>while the Imperialiſts doe much wrong, and waſte the Countrey with burning, for you may ſee one fire conti<g ref="char:EOLhyphen"/>nually kindled after another.</p>
+               <p>In the laſt encounter before <hi>Goyto,</hi> the Imperialiſts tooke from the <hi>
+                     <g ref="char:V">Ʋ</g>enetians,</hi> 25 Ancients, and 4 Cornets which ſhall be preſented to the Duke of <hi>Friedland,</hi> by the Commander <hi>Picolomeni.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>From <hi>Italy</hi> the <hi>8</hi> of <hi>Iune.</hi>
+               </head>
+               <p>The reaſon why the Duke of <hi>Sauoy</hi> ſent the <hi>Abbot de la Scaglia</hi> into <hi>Spaine,</hi> was to aſſure the King of <hi>Spaine,</hi> concerning his conſtancy and fidelity as alſo to giue him thankes for the great aſsiſtance and ſuccour which hee had afforded him in theſe late occurrences.</p>
+               <p>From <hi>Geneua</hi> it is reported that the Prince <hi>Thomas</hi> hath retyred himſelfe out of <hi>Sauoy,</hi> from <hi>Chambergh</hi> to <hi>Montmelian.</hi> Yeelding vnto thoſe of <hi>Chambergh,</hi> and o<g ref="char:EOLhyphen"/>ther Cities which are not tenable, free conſent to ac<g ref="char:EOLhyphen"/>commodate themſelues with <hi>France,</hi> as they ſhall ſee fit<g ref="char:EOLhyphen"/>ting But not to change their affections and loue againſt the houſe of <hi>Sauoy.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>From <hi>Vienna</hi> the <hi>5</hi> of Iune.</head>
+               <p>Since his Emperiall Maieſty departed hence, there is but little happened, onely we vnderſtand from <hi>Hungary</hi> that the <hi>Turks</hi> doe aſſemble very ſtrong; it is feared that the <hi>Turke</hi> will attempt ſomething againſt <hi>Hungary.</hi> Whereupon the Citie Magiſtrates here haue cauſed the Bridge with all neceſſaries to be repaired. Alſo in <hi>Hun<g ref="char:EOLhyphen"/>garie</hi> is command giuen for the amending of the Fron<g ref="char:EOLhyphen"/>tiers, and fortification of the ſame.</p>
+               <p>By reaſon that about <hi>Lowen,</hi> ſome 20 <hi>Turkes</hi> which went out a breebooting, and robbing, were ſlaine and found dead; The <hi>Turkes</hi> haue againe in great Compa<g ref="char:EOLhyphen"/>ny aſſembled together and fallen vpon the Merchants of <hi>Lowen</hi> returning homeward, and kill'd three hundred of them.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Prague</hi> the <hi>18</hi> of June.</head>
+               <p>All is at peace and quiet here. Onely here are cer<g ref="char:EOLhyphen"/>taine
+<pb n="5" facs="tcp:177326:5"/>Companies of <hi>Crabates</hi> expected here, who ſhall by the Deputies Commiſſarie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be inducted here.</p>
+               <p>In <hi>Hungary</hi> alſo are leuyed certaine hundred horſe, to what end is not yet knowne.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Silecia</hi> the <hi>10</hi> of June.</head>
+               <p>We doe vnderſtand that the King of <hi>Sweden</hi> will fall into theſe parts with 8000 horſe, and fiue Regiments of foot. The <hi>Oderſtream</hi> whereſoeuer Bridges are, is to that end fortified with Sconces, and from <hi>Breſlau</hi> thither is euery day ſent great ſtore of Prouiand. The dearth continues ſtill, inſomuch that many dye of hunger.</p>
+            </div>
+            <div type="part">
+               <head>From Halle. <hi>8</hi> dicto.</head>
+               <p>The Emperialiſts which haue hitherto layn in <hi>Older<g ref="char:EOLhyphen"/>burland, Coburgh Wymeren, Swatzenburg</hi> and other quar<g ref="char:EOLhyphen"/>ters, are now broken vp, they bend their courſe &amp; march towards the Bridge of <hi>Daſſow,</hi> there to hinder the com<g ref="char:EOLhyphen"/>ming of the <hi>Swediſh.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>From <hi>Lowen Saxonis 6</hi> Iune.</head>
+               <p>Diuers of the Emperors forces are expected into <hi>Po<g ref="char:EOLhyphen"/>meren,</hi> which ſhould deſcend from <hi>Maeghdenberg,</hi> the Biſhopricke of <hi>Halberſtadt.</hi> They are already vpon the march, and ready to beſet the places, neare and about the Sea. The Duke of <hi>Friedland</hi> is paſſed through <hi>Neu<g ref="char:EOLhyphen"/>renborch</hi> to <hi>Meningen,</hi> and through <hi>Elue</hi> to the Army, to affront the <hi>French</hi> Army.</p>
+               <p>The Prince Elector <hi>Saxon,</hi> is as yet at reſt, and keepes himſelfe ſtill, cauſeth no forces to be raiſed. He will try whether he can preuaile by Meſſengers with the Empe<g ref="char:EOLhyphen"/>rour, concerning the monies which are diſburſed.</p>
+               <p>Now we here from all parts, of the comming of the King of <hi>Sweden,</hi> and that the ſame King is preſent in <hi>Pru<g ref="char:EOLhyphen"/>yſen</hi> in his owne perſon, and conueyes his men through <hi>Breſlau</hi> into <hi>Pomeren.</hi> The troopes of foot daily imbar<g ref="char:EOLhyphen"/>ked, and to this end many ſhips are ſtayed in diuers Ha<g ref="char:EOLhyphen"/>uens of <hi>Pruyſen,</hi> which land the ſouldiers in <hi>Pomeren.</hi> His Maieſty is dayly expected in <hi>Straelſondt;</hi> and he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th well prouided all his Townes and Cities. The Com<g ref="char:EOLhyphen"/>mander
+<pb n="6" facs="tcp:177326:6"/>
+                  <hi>Torquato,</hi> will haue the paſſages of <hi>Gartes</hi> and <hi>Griſſenhagen</hi> by force. Notwithſtanding the Duke of <hi>Pomeren,</hi> and the heads of the Countrey oppoſe him. Yet neuertheleſſe they ſhall be faine to ſuffer it. The ſame <hi>Torquato</hi> keepes his Rendenouz about <hi>Stargart.</hi> Within few dayes there marched certaine of his Com<g ref="char:EOLhyphen"/>panies with 4 peeces of Ordnance toward <hi>Griſſenhagen.</hi>
+               </p>
+               <p>They now write from <hi>Statin,</hi> that the Commander <hi>Torquato</hi> is there. And the Councell hath at his requeſt for certaine houres beene together.</p>
+               <p>From <hi>Hamburgh,</hi> The King of <hi>Denmarke</hi> hath giuen charge, for all ſhips and goods, in that Citie in <hi>Norway,</hi> and in his whole Kingdome to be ſlayed and arreſted.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Bremen</hi>
+               </head>
+               <p>Here paſſed a Cauallier from <hi>Stocholin,</hi> who did relate that the King of <hi>Sweden</hi> is marching with this Army here deſcribed
+<list>
+                     <item>20 Regiment <hi>Dutch</hi> foot.</item>
+                     <item>47 Companies <hi>Dutch</hi> horſe.</item>
+                     <item>9 Regiment <hi>Funnis</hi> foot.</item>
+                     <item>4 Regiment <hi>Scotch.</hi>
+                     </item>
+                     <item>17 Regiments <hi>Swediſh</hi> foot</item>
+                     <item>3000 <hi>Funnis</hi> horſe.</item>
+                  </list>
+               </p>
+               <p>The <hi>Rhyngraf</hi> ſhall for a certaine time Command in <hi>Sweden.</hi> And alſo <hi>Charels, Charelſome, Wrangell.</hi> The King himſelfe is going toward <hi>Straelſondt</hi> in perſon.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Hamburgh.</hi>
+               </head>
+               <p>The whole Company here is enioyned by the Magi<g ref="char:EOLhyphen"/>ſtrates, by all meanes to deny the King of <hi>Denmarke</hi> the Toll which at <hi>Gheluckstadt</hi> he requires of the ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ps. To this end they haue prepared 30 warlike ſhips, well mounted with Ordnance, and all kind of prouiſion, in<g ref="char:EOLhyphen"/>tending to encounter with the Kings ſhips, which are now in the Riuer <hi>Elue.</hi> It is likely that here will grow hot warres. This City cauſeth daily men to be leuyed. And the King of <hi>Denmarke</hi> makes no leſſe preparations.</p>
+               <p>Now commeth tydings that the King of <hi>Denmarke</hi> is departed from <hi>Gheluckstadt</hi> to <hi>Coppenhagen,</hi> becauſe the King of <hi>Sweden</hi> had enquartered certaine thouſands of his men in <hi>Schoonen.</hi> Which is a great eaſement to
+<pb n="7" facs="tcp:177326:6"/>vs, for in the meane ſpace we may the better cleare the <hi>Elfſtroom.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>From <hi>Weſell</hi> the <hi>12</hi> of Iune.</head>
+               <p>The <hi>Spaniſh</hi> are now buſied at <hi>Berk</hi> to lay the Bridge, for defence of the ſame, they had brought ſixe great pee<g ref="char:EOLhyphen"/>ces of Ordnance, with the which they ſhot ſo ſtrong<g ref="char:EOLhyphen"/>ly, that thoſe of <hi>Rocroodt</hi> durſt attempt nothing. The Citizens at <hi>Berk</hi> are much afraid of a pillaging, by rea<g ref="char:EOLhyphen"/>ſon the ſouldiers get no pay. They lye 30 and 40 in one houſe. About the 3 and 4 of this moneth, was a Bridge laid ouer the <hi>Lip.</hi> Ouer the which the States did ſend a Conuoy of 500 ſouldiers, and 200 horſe to <hi>Dusburgh,</hi> there to pay Graue <hi>Willems</hi> men. The ſpeech goes that they are now all in the ſeruice of the States.</p>
+               <p>The workes of <hi>Buricke</hi> are now almoſt all in defence. The <hi>Spaniſh</hi> haue taken two of our ſouldiers which kept the watch without <hi>Burick,</hi> and haue carried them away captiue.</p>
+            </div>
+            <div type="part">
+               <head>From <hi>Goſh 17</hi> of Iune.</head>
+               <p>The Gouernour of <hi>Orſie,</hi> vrgeth our neutrall Cities ſtill, for the pay of his ſouldiers. Moreouer, <hi>John</hi> of <hi>Naſ<g ref="char:EOLhyphen"/>ſaw</hi> comes with his Army, and in the name of the Em<g ref="char:EOLhyphen"/>perour will lodge his forces within our townes. Not<g ref="char:EOLhyphen"/>withſtanding wee haue ſafe-gard from the Emperour himſelfe. Alſo haue wee receiued writing from the Lords the States that we ſhould not receiue him Here<g ref="char:EOLhyphen"/>upon we haue ſent with all ſpeed a Meſſenger to the <hi>Jn<g ref="char:EOLhyphen"/>fante,</hi> namely the D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ane of <hi>Iant.</hi> What he will obtaine with her at <hi>Bruxels,</hi> we muſt expect tydings of. Both our Dukes are now agreed concerning their difficulties. The Duke of <hi>Nieuburgh</hi> is at <hi>Duſseldorpe,</hi> and is ſhortly to depart to the <hi>Hage.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>From <hi>Antwerp 29</hi> Iune.</head>
+               <p>This day is arriued a Courier with Letters from <hi>Lic<g ref="char:EOLhyphen"/>bona,</hi> which mention, that there are ſhips preparing, <hi>Port à Port,</hi> and throughout the whole Kingdome, for the ſeruice of the King.</p>
+               <pb n="8" facs="tcp:177326:7"/>
+               <p>In <hi>Spaine</hi> is a certaine ſhip arriued from <hi>Don Frede<g ref="char:EOLhyphen"/>rico,</hi> from <hi>Havana,</hi> reporting that he is there with the Fleet, conſiſting of 70 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aile, which are come from <hi>Car<g ref="char:EOLhyphen"/>tagena,</hi> and are expected in <hi>Spaine</hi> in <hi>June.</hi>
+               </p>
+               <p>From <hi>Calis Malis</hi> is gone to Sea and ſet ſaile, the or<g ref="char:EOLhyphen"/>di<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet of <hi>Terra firma.</hi> Of 12 Gallions, and two ſw<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pinnaces. The Fleet of <hi>Noua Spania</hi> ſhould follow alſo this moneth, and returne againe in <hi>Nouember,</hi> Let<g ref="char:EOLhyphen"/>ters certifie from <hi>Madril</hi> that as ſoone as <hi>Don Frederico</hi> ſhall be arr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ued, he ſhall againe depart for the <hi>Braſiles.</hi> To this end <hi>Spaine</hi> ſhall ſet forth 80 Ships, and the <hi>Dunkers, Portugals</hi> and <hi>Biſcayers</hi> 40. Concerning which we ſhall in time be made acquanted.</p>
+               <p>In <hi>Portugall</hi> doth ſtill continue great alteration, and they are much perplexed for the loſſe of <hi>Farnambuco,</hi> the more by reaſon of a certaine <hi>Barke</hi> is arriued from <hi>Pacina,</hi> with Letters from the Gouernor <hi>Albunckerken,</hi> Who doth ſtill containe himſelfe in the open Countrey. Theſe letters make knowne, that if ſo be the King doth not with all poſsible ſpeed ſend ouer a great Army and ſtrength it will be impoſsible euer to incorporate the <hi>R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ff.</hi> The rather becauſe there are now by the States raiſed ſuch fortifications as neuer before hath bin heard of, or ſeene in thoſe Countries.</p>
+               <p>The laſt day of <hi>September,</hi> 1629. nine ſhips did ſet ſaile from <hi>Jattatra</hi> in the <hi>Eaſt-Indies;</hi> Of which 7 are lately ſately arriued in theſe parts of the <hi>Low-Countries.</hi> Two in <hi>Zeeland</hi> three in <hi>Texell,</hi> two in the <hi>Maſe<g ref="char:punc">▪</g>
+                  </hi> The eighth was burnt with all the goods in her, on this ſide of the Line, but all the men ſaued except one. The ninth is ſtill expected.</p>
+               <div type="section">
+                  <head>Theſe be the 7 ſhips with their names.</head>
+                  <p>The ſhip <hi>Hollandia, Vtricht, L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yden Fredericke. Hen<g ref="char:EOLhyphen"/>dricke,</hi> The <hi>Sea-horſe,</hi> and the Armes of <hi>Delft,</hi> and <hi>Dort.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="9" facs="tcp:177326:7"/>
+                  <head>Here followes a Liſt or Cargaſoon of the lading of the ſeuen forenamed ſhips, with the other named <hi>Rotterdam, which</hi> came ſince.</head>
+                  <list>
+                     <item>8889 6 Bags of Pepper from diuers quarters 3½ <hi>Picol</hi> Pepper.</item>
+                     <item>549758 pound of Cloues.</item>
+                     <item>287881 pounds of Nutmegs.</item>
+                     <item>84 <hi>Catti Banda</hi> male Nutmegs.</item>
+                     <item>136883 pounds of Mace in 1199 Sockels.</item>
+                     <item>380<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7 <hi>Catti China</hi> ſilke.</item>
+                     <item>155108 pounds of <hi>Perſian</hi> ſilke in 910 Bales.</item>
+                     <item>179330 pounds <hi>Indigo Beana</hi> in 817 fardels 817.</item>
+                     <item>49900 pound <hi>Indigo</hi> of <hi>Coromandell,</hi> in 346 packes.</item>
+                     <item>62801 pound Cotton Yarne.</item>
+                     <item>65360 pound Cinnamont.</item>
+                     <item>329052 pound <hi>Sapon</hi> wood.</item>
+                     <item>16380 pound <hi>China</hi> root from <hi>Canton.</hi>
+                     </item>
+                     <item>50 <hi>Picol Sandell</hi> wood. 7 <hi>Picol Pelaga.</hi> 25 <hi>Picol Cubks.</hi>
+                     </item>
+                     <item>24 Packs of linnen from <hi>Coromardel</hi>
+                     </item>
+                     <item>3825 peeces of <hi>Gainy</hi> linnen in 180 packes.</item>
+                     <item>7071 peeces of <hi>Salampouris</hi> in 22 packs.</item>
+                     <item>949 peeces, parcals in 4 packs.</item>
+                     <item>3279 peeces Betilles of 24 <hi>Aſta,</hi> in 18 packs.</item>
+                     <item>200 peeces fine <hi>Chelis</hi> in 2 packs</item>
+                     <item>2000 peeces white <hi>Mouris</hi> in 20 packs.</item>
+                     <item>389844 pound refined Saltpeeter. from <hi>Duratte.</hi>
+                     </item>
+                     <item>484551 pound <hi>Coromadel</hi> Saltpeeter, 60000 l. vnrefined</item>
+                     <item>9 <hi>Catti</hi> of Muske, in 4 leaden boxes.</item>
+                     <item>14 peeces of <hi>Beezer</hi> ſtone.</item>
+                     <item>41 peeces of Diamonts, waying 158 Carat.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Lading of another ſhip the Galliaſſe.</head>
+                  <list>
+                     <item>407895 pound <hi>Priaman</hi> Pepper, in 6120 bagges.</item>
+                     <item>130225 pound Saltpeeter refined, from <hi>Coromandell.</hi>
+                     </item>
+                     <item>1027 peeces <hi>Salampouris</hi> bleached, in 10 packes.</item>
+                     <item>1142 peeces of <hi>Parcais,</hi> in 6 packs.</item>
+                     <pb n="10" facs="tcp:177326:8"/>
+                     <item>400 peeces <hi>Mouris</hi> bleached, in 4 packs.</item>
+                     <item>200 <hi>Picol Sapon</hi> wood, in 462 peeces.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="part">
+               <p>From <hi>Siuill</hi> in <hi>Spaine</hi> is written, that a <hi>Baunke</hi> is arri<g ref="char:EOLhyphen"/>ued there from <hi>Noua Hispania,</hi> which came from Saint <hi>Iohn de Luce,</hi> the ſecond of <hi>March;</hi> brings tydings that the Fleet of <hi>Noua Spania,</hi> lay ready there to come to <hi>Ha<g ref="char:EOLhyphen"/>uana,</hi> according to the order and appointment of <hi>Don Frederico De Toledo:</hi> who then was in <hi>Cartagena</hi> with his Armado, lading of ſiluer, and both theſe Fleets are expected in <hi>Iune</hi> Others are of opinion they will not be here vntill <hi>October.</hi>
+               </p>
+               <div type="section">
+                  <head>Relation of the gold and ſiluer, with the ſeuerall Merchan<g ref="char:EOLhyphen"/>dizes, as they haue been Regiſtred; and are ſaid to bee in the Fleet of <hi>Noua Hiſpania,</hi> vnder the command of Gene<g ref="char:EOLhyphen"/>rall <hi>Don Hieronimo,</hi> comes tranſlated out of the <hi>Spa<g ref="char:EOLhyphen"/>niſh.</hi>
+                  </head>
+                  <list>
+                     <item>9500 Peeces of Eight in ſiluer for his Maieſty,</item>
+                     <item>
+                        <hi>One Million</hi> 7500 for particulars peeces of Eight.</item>
+                     <item>
+                        <hi>Two Millions.</hi> 7000 peeces of eight.</item>
+                     <item>4986 fine greene <hi>Arrobes.</hi> 3850 <hi>Arrobes</hi> courſe greene.</item>
+                     <item>167775 pound of <hi>Anill.</hi> 800 pound of ſilke.</item>
+                     <item>60000 of dreſſed and vndreſſed Hydes</item>
+                     <item>168 <hi>Aroben</hi> wooll. 25 Quintals of Salſaparill.</item>
+                     <item>251 peeces of ſeuerall coſtly and precious Commodities</item>
+                     <item>3278 Quintals of <hi>Braſil</hi>-wood</item>
+                     <item>38<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9 Q<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ntal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of <hi>Campethe</hi>-wood.</item>
+                     <item>4000 <hi>Arobes</hi> of Sugar.</item>
+                     <item>59 <hi>Pypes Pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>go de Chalopa.</hi> 22 bags of <hi>Canan Fiſtola.</hi>
+                     </item>
+                     <item>4 Laſt of holy wood.</item>
+                  </list>
+                  <p>All theſe Merchandizes are eſteemed to one Million and two hundred thouſand peeces of eight. In all a<g ref="char:EOLhyphen"/>mount to foure Millions.</p>
+                  <pb n="11" facs="tcp:177326:8"/>
+               </div>
+               <div type="section">
+                  <p>There arriued at <hi>Amſterdam,</hi> lately the ſwift Pinnace called the <hi>Rauen.</hi> And in <hi>Tezell</hi> the ſhip <hi>Leyden,</hi> out of the Fleet of Admirall <hi>P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ter.</hi> Which parted fro<g ref="char:cmbAbbrStroke">̄</g> him the 22 of the laſt monn. They relate that he wil yet a while croſſe the ſea in thoſe <hi>Flemiſh</hi> lands. He parted from S. <hi>Mar<g ref="char:EOLhyphen"/>ta</hi> in <hi>Januares,</hi> where he tooke the towne and the Caſtle, which was kept but with a few men and Ordnance hee tooke the towne without any reſiſtance; but the Caſtle diſcharged three times; and after three houres ſiege yeelded. After the Admirall had kept the ſame eight dayes he was forced to leaue the ſame through want of victuals, and by reaſon of other inconueniencies. The City was ranſomed by the Inhabitants for 5500 peeces of eight for feare the ſame ſhould bee burned. Yet hee tooke with him Wine Tobaco Hydes, <hi>Campechewood,</hi> a ſilver Croſſe, and other commodities which he found there. The Inhabitants had conueyed the richeſt goods vp into the Countrey. And what they could not carry with them they burned<g ref="char:punc">▪</g> One Barke which the Admi<g ref="char:EOLhyphen"/>rall tooke at <hi>Ouana,</hi> he burned before his departure from Saint <hi>Marta.</hi> In all this turmoyle, he loſt but one man, and had another hurt.</p>
+                  <p>
+                     <hi>Graue Henry vanden Berck</hi> ſhall haue command ouer the whole Army of the King of <hi>Spaine,</hi> as he had the yeere laſt paſt.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>From <hi>Paris</hi> it is written, that in the Army of the Car<g ref="char:EOLhyphen"/>dinall <hi>Richelieu,</hi> there is a very great mortality. It is preſumed, that thither hath ſecretly been ſent ſome poi<g ref="char:EOLhyphen"/>ſoned bread. A Baker at <hi>Suz<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was burnt therefore for hauing a h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd in the like buſineſſe.</p>
+               <p>His Maieſty is come to <hi>Dion,</hi> where 150 Citizens and one Procter, did ſubmit themſelues to him, and craued pardon. And their pardon was granted them on con<g ref="char:EOLhyphen"/>dition, that the Church ſteeple by Saint <hi>Nicholas,</hi> ſhould bee quite raiſed to the ground, for a memoriall of their Rebellion.</p>
+               <pb n="12" facs="tcp:177326:9"/>
+               <p>The 29 of <hi>Iune</hi> laſt paſt, we brought into <hi>Fluſhin</hi> three prizes richly laden with Hides, Sugar, Tobaco, and other coſtly commodities belo<g ref="char:cmbAbbrStroke">̄</g>ging to ſome particular owners.</p>
+               <p>The eight day of <hi>Iune</hi> the couragious and manly Cap<g ref="char:EOLhyphen"/>taine <hi>Bartholomeus <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ctergen,</hi> ſet ſaile from <hi>Dir Gou,</hi> to Conuoy ſome Merchants ſhips. The next day being the ninth, he eſpied before day foure <hi>Dunkerkers.</hi> He made vp towards them with his ſhips, and ſtroke his maine ſaile and made in amongſt them; he fought couragiouſly with the Admirall, and another luſty ſhip, and they ſhot at each other with Canon and Musket. In the meane time the other two <hi>Dunkerks</hi> ran in amongſt the Mer<g ref="char:EOLhyphen"/>chants ſhips and tooke two of them, which by reaſon of the calme, the Captaine could not hinder them from. And alſo he fighting with the other two. And euery <hi>Dunkerker</hi> hauing one prize, were conſtrained to let them goe. They had ſet men vpon them, but tooke the flight, one of them ſitting faſt vpon a ſhelfe.</p>
+            </div>
+            <div type="letter">
+               <head>Coppy of a Letter written in <hi>Middleborow,</hi> the <hi>8</hi> Iuly.</head>
+               <opener>
+                  <salute>SIr,</salute>
+               </opener>
+               <p> ſince my laſt, I heard nothing from you concer<g ref="char:EOLhyphen"/>ning newes. We vnderſtand, that thoſe of <hi>Weſel,</hi> ha<g ref="char:EOLhyphen"/>uing a proiect vpon a certaine place neare <hi>Rhynberk,</hi> did m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rch out, the 6 of this moneth, to performe their en<g ref="char:EOLhyphen"/>terprize, the Count <hi>Iohn</hi> of <hi>Naſſaw</hi> Generall of the Em<g ref="char:EOLhyphen"/>perours Army, hauing intelligence of it, went alſo out, and hid himſelfe with great troupes, and when ours were come almoſt to the appointed place, the ſaid Count <hi>Iohn</hi> with his troopes did beſet theſe of <hi>Weſel.</hi> Now although ours ſaw that the Enemy were ſtronger then they yet rather then to be kill'd or taken priſoners, they reſolued to make a battell againſt them, which Mounſiour <hi>Iſſelſteyn,</hi> Commander of the troopes of <hi>We<g ref="char:EOLhyphen"/>ſel</hi> did condeſcend, and did skirmiſh a great while with the Enemy, cauſed not onely them to retyre, but kill'd alſo a great many of the Enemies officers, and tooke priſoner, amongſt others, the ſaid Count <hi>John</hi> of <hi>Naſſaw,</hi>
+                  <pb n="13" facs="tcp:177326:9"/>whom they deadly wounded, brought into <hi>Weſel.</hi> The particulars of which, as farre as we haue receiued them, or can vnderſtand at this preſent, hereafter follow.</p>
+               <div type="section">
+                  <head>A Relation of a skirmiſh or battell happened betweene the forces of the High and Mighty Lords the States, vnder the Conduct of the Lord <hi>Ritmaſter Iſſelſteyn,</hi> on the one part, and his Highneſſe, Count <hi>Iohn</hi> of <hi>Naſſaw,</hi> on the o<g ref="char:EOLhyphen"/>ther part. Iuly the <hi>6. 1630.</hi>
+                  </head>
+                  <p>FRom <hi>Weſel</hi> is written, the 8 of <hi>Iuly,</hi> as followeth. That on the 6 of the ſame moneth, the Lord <hi>Ritma<g ref="char:EOLhyphen"/>ſter Iſſelſteyn,</hi> hauing with him not aboue 250 horſemen, and about one thouſand of foot, marched out of <hi>Weſel,</hi> towards a Quarter, lying ouer the <hi>Greft,</hi> which was be<g ref="char:EOLhyphen"/>ſet with fixe Companies of Souldiers. And although they were entrenched, ours cauſed them to retyre backe to the Sconce of <hi>Roſſenroy,</hi> neare to that Quarter where they were left. But our comming neare the place cal<g ref="char:EOLhyphen"/>led <hi>Locht-graue,</hi> they met with Count <hi>Iohn</hi> of <hi>Naſſaw,</hi> hauing with him 6 troopes of horſe, which were about 600 ſtrong, and about 14 or 1500 of foot. Though ours were but ſtrong about 250 of horſe, 1000 of foot, and therfore not ſeeing any reliefe but to battell with them, or to be kild, they fell to it manfully, and by Gods grace, haue gotten the victory and deſtroyed their troupes, with the loſſe of may Officers of the Enemy, amongſt which were ſlaine, the <hi>Ritmaſter, Oftenberck,</hi> and <hi>Ging<g ref="char:EOLhyphen"/>nart,</hi> deadly hurt. And Count <hi>Iohn</hi> of <hi>Naſſaw</hi> alſo dead<g ref="char:EOLhyphen"/>ly wounded, brought into <hi>Weſel.</hi> Ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> foot Souldiers did not battell at that time, becauſe the Enemies were too ſtrong and got freſh reliefe from <hi>Rhynberck.</hi>
+                  </p>
+                  <p>The names of the Enemies Officers, amongſt which the <hi>Rit<g ref="char:EOLhyphen"/>maſter, Oftenberck</hi> was flame, and Captaine <hi>Gaignart</hi> deadly wounded.</p>
+                  <list>
+                     <item>Captaine <hi>Gaignart</hi> of <hi>Gerignart,</hi> in Garriſon at <hi>Rhyn<g ref="char:EOLhyphen"/>berck.</hi>
+                     </item>
+                     <pb n="14" facs="tcp:177326:10"/>
+                     <item>Captaine <hi>Offenbercke,</hi> in Garriſon at <hi>Brugge.</hi>
+                     </item>
+                     <item>Cornet <hi>de Maledo,</hi> at <hi>Straelen.</hi>
+                     </item>
+                     <item>Captaine <hi>Idronimo van Dalen,</hi> Emperialiſt.</item>
+                     <item>Lieuftenant <hi>Bias,</hi> Emperialiſt.</item>
+                     <item>
+                        <hi>Don Diego de Mexia,</hi> his Company, and Commander as Lieutenant Generall ouer theſe troopes.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="publishers_note">
+               <head>The Publiſher to the Reader.</head>
+               <p>SInce the former particulars, we are tru<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> informed that his Maieſty of <hi>Sweden</hi> was met in <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <hi>Swound,</hi> with two Fleets of ſixe or ſeuenſcore ſaile, and that he is ſince landed at <hi>Staleſunt</hi> with a Royal Army, and it is hoped will bee the reſtorer of the liberties of the poore diſtreſſed Princes of <hi>Germany.</hi> Of what conſequence it will be to the <hi>French</hi> King and his deſignes in <hi>Jtaly</hi> wiſe and inteligent men vnderſtand<g ref="char:punc">▪</g> This yeare 1630, is like to produce more action in Chriſtendome then was this hundred yeares; and more Newes is like to come to our hands<g ref="char:punc">▪</g> If wee. may receiue better encouragement then we haue done, for we haue loſt by our publication, both our labour and a great deale of money this tenne moneths, which was the cauſe we publiſhed ſcarce one a moneth; It being moſt mens deſire to heare of action, which ſeldome fals out in the Winter. We preſume we ſhall now fit their humour, with action enough euery weeke if their purſes be as ready to pay as wee ſhall bee ready to publiſh, the greateſt talkers of Newes (as the <hi>Pauls</hi> walkers) are the pooreſt buyers. Farewell.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Iuly the</hi> 16. 1630.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
